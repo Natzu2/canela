@@ -40,7 +40,7 @@ public static void main(String[] args){
     
     receta.setDificultad(Dificultad.INTERMEDIO);
     
-    
+    //Puras pinches Twice y no mamadas
     
     
     
